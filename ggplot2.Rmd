@@ -1,0 +1,9 @@
+---
+title: "Example"
+author: "Wirote L"
+date: '2022-09-15'
+output: html_document
+---
+# Learning ggplot2
+
+We're learning ggplot2 It's going to be amazing. 
